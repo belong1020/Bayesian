@@ -1,0 +1,19 @@
+com.bayes.test 中test方法  调用编写静态方法
+
+com.bayes.domain  对象
+
+com.bayes.main  文件处理部分
+
+com.bayes.operate  文件处理bayes函数主体
+
+					java  weka包 -- 十折交叉验证  
+					Instances data = ;
+					int seed = ;
+					int folds = ;
+					
+					Random rand = new Random(seed);
+					randData = new Instances(data);
+					randData.randomize(rand);
+					
+					(准差^2)*n=pow((v1+(v1+v2)/2),2)+pow((v2+(v1+v2)/2),2);
+					
